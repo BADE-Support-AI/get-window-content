@@ -1,0 +1,14 @@
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\bin\Debug\net8.0\AI_GetWindowContent.exe
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\bin\Debug\net8.0\AI_GetWindowContent.deps.json
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\bin\Debug\net8.0\AI_GetWindowContent.runtimeconfig.json
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\bin\Debug\net8.0\AI_GetWindowContent.dll
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\bin\Debug\net8.0\AI_GetWindowContent.pdb
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.AssemblyInfoInputs.cache
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.AssemblyInfo.cs
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.csproj.CoreCompileInputs.cache
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.dll
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\refint\AI_GetWindowContent.dll
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.pdb
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\AI_GetWindowContent.genruntimeconfig.cache
+C:\Users\Mathis Junker\source\repos\AI_GetWindowContent\AI_GetWindowContent\obj\Debug\net8.0\ref\AI_GetWindowContent.dll
